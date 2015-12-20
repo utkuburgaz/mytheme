@@ -6,12 +6,12 @@
   height: auto;
 }
 
+a.icon {
+  color: black;}
 a.icon:link {
-  color: black;
-}
+  color: black;}
 a.icon:hover {
-  color: #33C3F0;
-}
+  color: #33C3F0;}
 
 
 .container {
