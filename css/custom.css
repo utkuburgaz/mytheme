@@ -9,7 +9,7 @@
 .a-icon:link {
   color: black;
 }
-.a-icon:active {
+.a-icon:hover {
   color: #33C3F0;
 }
 
