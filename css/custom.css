@@ -8,11 +8,10 @@
 
 a.icon {
   color: black;}
-a.icon:link {
+/*a.icon:link {
   color: black;}
-a.icon:hover {
-  color: #33C3F0;}
-
+a.icon:hover {color: #33C3F0;}
+*/
 
 .container {
   max-width: 800px; }
