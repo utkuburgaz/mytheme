@@ -6,10 +6,10 @@
   height: auto;
 }
 
-.a-icon:link {
+.icon-link:link {
   color: black;
 }
-.a-icon:hover {
+.icon-link:hover {
   color: #33C3F0;
 }
 
