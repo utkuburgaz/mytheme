@@ -1,3 +1,21 @@
+author: Utku Burgaz
+title: Richard James' Personal Website
+name: Richard James
+email: richard.james@gmail.com
+website: github.io/sustain
+website_link: https://biomadeira.github.io/sustain
+github: trending
+twitter: twitter
+#tel: +44 0000 000000
+#tel_full: tel:+440000000000
+#google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+address: 3404 Sansom Stree
+postcode: 19104
+city: Philadelphia
+state: PA # country
+#google_analytics: UA-69300817-1
+
+
 # Where things are
 source:      .
 destination: ./_site
