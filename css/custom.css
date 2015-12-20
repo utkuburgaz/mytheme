@@ -11,8 +11,10 @@ a.icon {
   margin-right: 10%;}
 /*a.icon:link {
   color: black;}
-a.icon:hover {color: #33C3F0;}
 */
+a.icon:hover {
+  color: inherit;}
+
 
 .container {
   max-width: 800px; }
