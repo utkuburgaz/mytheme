@@ -6,7 +6,12 @@
   height: auto;
 }
 
-
+.a-icon:link {
+  color: black;
+}
+.a-icon:active {
+  color: #33C3F0;
+}
 
 
 .container {
