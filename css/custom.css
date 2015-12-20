@@ -9,11 +9,8 @@
 a.icon {
   color: #222;
   margin-right: 10%;}
-/*a.icon:link {
-  color: black;}
-*/
 a.icon:hover {
-  color: inherit;}
+  color: #0FA0CE;}
 
 
 .container {
